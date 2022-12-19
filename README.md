@@ -2,7 +2,7 @@
 The real time digital clock.
 
 
-Live Site : https://kdkp07.github.io/Digital-Ghadi/
+Live Site : https://papaya-mousse-81c6f5.netlify.app
 
 
 PS : Just practised Javascript and CSS.
